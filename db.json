@@ -1,0 +1,114 @@
+{
+  "events": [
+    {
+      "id": 123,
+      "category": "animal welfare",
+      "title": "Cat Adoption Day2",
+      "description": "Find your new feline friend at this event.",
+      "location": "Meow Town",
+      "date": "January 28, 2022",
+      "time": "12:00",
+      "organizer": "Adrien Autcq"
+    },
+    {
+      "id": 456,
+      "category": "food",
+      "title": "Community Gardening",
+      "description": "Join us as we tend to the community edible plants.",
+      "location": "Flora City",
+      "date": "March 14, 2022",
+      "time": "10:00",
+      "organizer": "Fern Pollin"
+    },
+    {
+      "id": 789,
+      "category": "sustainability",
+      "title": "Beach Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "organizer": "Carey Wales"
+    },
+    {
+      "id": "4c71a4c8-6b48-48f1-897e-0390eb77baed",
+      "category": "education",
+      "title": "bite",
+      "description": "bite",
+      "location": "bite",
+      "date": "bite",
+      "time": "bite",
+      "organizer": "Adam Jahr"
+    },
+    {
+      "id": "2db5deec-8013-43d4-b8b6-c0af3ed3c6eb",
+      "category": "education",
+      "title": "bite",
+      "description": "bite",
+      "location": "bite",
+      "date": "bite",
+      "time": "bite",
+      "organizer": "Adam Jahr"
+    },
+    {
+      "id": "da5c7c49-f065-48fb-8418-b21dc8d2942d",
+      "category": "housing",
+      "title": "qwejo",
+      "description": "ojqbef",
+      "location": "ojeqb",
+      "date": "lqjeb",
+      "time": "qkjbeqv",
+      "organizer": "Adam Jahr"
+    },
+    {
+      "id": "a95f6000-97db-4538-bae7-49c515a42821",
+      "category": "food",
+      "title": "qwekjb",
+      "description": "jqebvj",
+      "location": "qwkdjvb",
+      "date": "lqjeq",
+      "time": "lqjef",
+      "organizer": "Adam Jahr"
+    },
+    {
+      "id": "45135b4d-2708-4078-8fed-4455e16edffd",
+      "category": "education",
+      "title": "kqj",
+      "description": "kjqwv",
+      "location": "kwdvk",
+      "date": "wkdv ",
+      "time": "knwd vw",
+      "organizer": "Adam Jahr"
+    },
+    {
+      "id": "0b9b730b-b9bc-48d8-b5be-43cd7b14d280",
+      "category": "animal welfare",
+      "title": "wj",
+      "description": "wdjv",
+      "location": "qlwjdbv",
+      "date": "jlwbdv",
+      "time": "kjwbdv",
+      "organizer": "Adam Jahr"
+    },
+    {
+      "id": "14332b7c-5a15-4d9f-af35-e8ed9cbb2c33",
+      "category": "housing",
+      "title": "Couilles",
+      "description": "qdivh",
+      "location": "oljwdv",
+      "date": "lovqdwvjlb",
+      "time": "qdvlj",
+      "organizer": "Adam Jahr"
+    },
+    {
+      "id": "e8466f9a-46c4-45a3-803c-a4c5f8361d5d",
+      "category": "animal welfare",
+      "title": "wvlkn",
+      "description": "lwjvnb",
+      "location": "ljwvljb",
+      "date": "wljdv",
+      "time": "ljwv",
+      "organizer": "Adam Jahr"
+    }
+  ]
+}
