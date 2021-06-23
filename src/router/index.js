@@ -8,7 +8,7 @@ import EventCreate from '../views/event/Create.vue'
 import About from '../views/About.vue'
 import NotFound from '@/views/NotFound.vue'
 import NetworkError from '@/views/NetworkError.vue'
-// import NProgress from 'nprogress'
+import NProgress from 'nprogress'
 import store from '@/store/index.js'
 
 const routes = [
@@ -102,7 +102,7 @@ const router = createRouter({
 })
 
 router.beforeEach((to, from) => {
-  // NProgress.start()
+  NProgress.start()
   if (to.meta.requireAuth && !store.state.isAuthorized) {
     store.dispatch('showFlashMessage', 'You must be connected.')
 
@@ -115,7 +115,7 @@ router.beforeEach((to, from) => {
 })
 
 router.afterEach(() => {
-  // NProgress.done()
+  NProgress.done()
 })
 
 export default router
