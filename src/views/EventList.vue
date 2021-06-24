@@ -24,7 +24,7 @@
 </template>
 
 <script>
-import EventCard from '@/components/EventCard.vue'
+import EventCard from '@/components/event-card/event-card.vue'
 import store from '@/store/index.js'
 
 export default {
